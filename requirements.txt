@@ -1,0 +1,13 @@
+Flask
+flask-httpauth
+flask_restful
+flask_mail
+flask_wtf
+flask_sslify
+Werkzeug
+markupsafe
+email_validator
+gunicorn
+Jinja2
+PyYAML
+itsdangerous

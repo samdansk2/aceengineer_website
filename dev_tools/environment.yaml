@@ -1,0 +1,20 @@
+name: aceengineer_website
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python
+  - pandas
+  - pip
+  - pip:
+      - Flask
+      - flask_wtf
+      - flask_httpauth
+      - flask_mail
+      - flask_restful
+      - flask_sslify
+      - Werkzeug
+      - markupsafe
+      - email_validator
+      - email_validator
+      - itsdangerous
